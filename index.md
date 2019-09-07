@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" media="all" href="assets/styles.css" />
+
 # Valentin Kononov
 ### Full-Stack Developer, Speaker, Trainer
 
@@ -9,15 +11,52 @@ Full-Stack software developer, interested in web development using TypeScript, B
 
 ## Contacts
 
- - Email: valentin.kononov@gmail.com
- - GitHub: https://github.com/valentinkononov
- - LinkedIn: https://www.linkedin.com/in/valentin-kononov/
- - Cell / Telegram / WhatsUp: +375 29 784 8999
- - Skype: valentin_kononov
- - Twitter: @ValentinKononov
- - Facebook: https://www.facebook.com/pinckrow
- - Medium: https://medium.com/@valentinkononov
- - Habrahabr: https://habr.com/ru/users/pinckrow/posts/
+<div class="flex-row-container">
+    <img src="assets/email-outline.png" width="25" height="25" alt="Email" /> 
+    <div>valentin.kononov@gmail.com</div>
+</div>
+
+<div class="flex-row-container">
+    <img src="assets/github-outline.png" width="25" height="25" alt="GitHub" /> 
+    <div><a href="https://github.com/valentinkononov">https://github.com/valentinkononov</a></div>
+</div>
+
+<div class="flex-row-container">
+    <img src="assets/linkedin-outline.png" width="25" height="25" alt="LinkedIn" />
+    <div><a href="https://www.linkedin.com/in/valentin-kononov/">https://www.linkedin.com/in/valentin-kononov/</a></div>
+</div>
+
+<div class="flex-row-container">
+    <img src="assets/phone-call-outline.png" width="25" height="25" alt="Cell / Telegram / WhatsUp" /> 
+    <div>/</div>
+    <div><img src="assets/paper-plane-outline.png" width="25" height="25" alt="Telegram" /></div>
+    <div>+375 29 784 8999</div>
+</div>
+
+<div class="flex-row-container">
+    <img src="assets/skype.jpg" width="25" height="25" alt="Skype" /> 
+    <div>valentin_kononov</div>
+</div>
+ 
+<div class="flex-row-container">
+    <img src="assets/twitter-outline.png" width="25" height="25" alt="Twitter" /> 
+    <div>@ValentinKononov</div>
+</div>
+
+<div class="flex-row-container">
+    <img src="assets/facebook-outline.png" width="25" height="25" alt="Facebook" /> 
+    <div><a href="https://www.facebook.com/pinckrow">https://www.facebook.com/pinckrow</a></div>
+</div>
+
+<div class="flex-row-container">
+    <img src="assets/file-text-outline.png" width="25" height="25" alt="Medium" /> 
+    <div><a href="https://medium.com/@valentinkononov">https://medium.com/@valentinkononov</a></div>
+</div>
+
+<div class="flex-row-container">
+    <img src="assets/file-text-outline.png" width="25" height="25" alt="Habrahabr" /> 
+    <div><a href="https://habr.com/ru/users/pinckrow/posts/">https://habr.com/ru/users/pinckrow/posts/</a></div>
+</div>
 
 ## Story
 
