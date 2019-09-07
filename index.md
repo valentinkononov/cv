@@ -11,7 +11,7 @@ Full-Stack software developer, interested in web development using TypeScript, B
 
 ## Contacts
 
-<div>
+<div class="container">
 
 <div class="flex-row-container">
     <img src="assets/email-outline.png" width="25" height="25" alt="Email" /> 
