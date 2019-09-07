@@ -5,6 +5,8 @@
 
 Full-Stack software developer, interested in web development using TypeScript, Backend development with NodeJS, NestJS, .NET Core. But not limited to it, open for the new skills. I enjoy attending conferences as a Speaker with technology talsk. Flexible and self motivated, I'm interested in being part of some framework development or product for developers. I love comprehensive tasks, learning new technologies and solving tech problems. 
 
+![Photo Valentin Kononov 2019](Valentin_2019.png)
+
 ## Contacts
 
  - Email: valentin.kononov@gmail.com
