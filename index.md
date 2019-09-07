@@ -58,6 +58,8 @@ Full-Stack software developer, interested in web development using TypeScript, B
     <div><a href="https://habr.com/ru/users/pinckrow/posts/">https://habr.com/ru/users/pinckrow/posts/</a></div>
 </div>
 
+
+
 ## Story
 
 I've been working in software development since university for more than 11 years. Initially from .NET backgroung, I grew into management of projects inside EPAM, was involved into company processes at some level. Then I changed my primary direction back into code writing, architecture and technical leadership.
