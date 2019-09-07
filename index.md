@@ -11,6 +11,8 @@ Full-Stack software developer, interested in web development using TypeScript, B
 
 ## Contacts
 
+<div>
+
 <div class="flex-row-container">
     <img src="assets/email-outline.png" width="25" height="25" alt="Email" /> 
     <div>valentin.kononov@gmail.com</div>
@@ -58,7 +60,7 @@ Full-Stack software developer, interested in web development using TypeScript, B
     <div><a href="https://habr.com/ru/users/pinckrow/posts/">https://habr.com/ru/users/pinckrow/posts/</a></div>
 </div>
 
-
+</div>
 
 ## Story
 
