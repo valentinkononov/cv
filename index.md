@@ -100,6 +100,9 @@ Another intersting but rather small activity for myself is doing trainings and p
  - Several other local meetups with the simalar topics
  - Several trainings and tech talks as part of educational activities in my companies (Agile training, Code Quality Training, Scrum Training, 'Features of a national programming' - training about cultural differences in IT industry and some others)
 
+### Magazine Articles about me
+ - [Interview with me by ngVikings member - Marta Wisniewska](https://www.flipsnack.com/MartaWPL/behind-the-code-ngvikings.html)
+
 ### Projects and Case Studies
 
 Akveo - **Nebular and Ngx-Admin Training** - Summer 2019, Minsk. 
