@@ -86,13 +86,9 @@ Another intersting but rather small activity for myself is doing trainings and p
 
 ## Conferences and MeetUps
 
-#### Planned
-
- - https://devfest.moscow/ in November 2019
- - https://devfest.gdgnn.ru in November 2019
-
 #### Completed
 
+ - [GDG Dev Fest Gorky 2019](https://devfest.gdgnn.ru), GDG Conference in Nizhniy Novgorod. I did a talk, [video recording](https://www.youtube.com/watch?v=YqVu3SvPvQU) is avaiable, and workshop about NestJS
  - [AngularBelarus](https://www.meetup.com/ru-RU/angularbelarus) meetup #1, talk about NestJS, [video recording](https://www.youtube.com/watch?v=DNSwqq3jitc)
  - [ngVikings](https://ngvikings.org) conference, talk about Angular Bad Practices, [video recording](https://www.youtube.com/watch?v=QU739zZvkhE)
  - [GDG Dev Fest Belarus 2018](https://2018.devfest.by/) conference, talk about Application State Management, [video recording](https://www.youtube.com/watch?v=AQi7tzqMmM8)
