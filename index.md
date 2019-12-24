@@ -101,6 +101,15 @@ Another intersting but rather small activity for myself is doing trainings and p
 
 ### Projects and Case Studies
 
+Mapbox - **Annotation Tool** - 
+November 2019 - current time, Minsk
+
+I'm working improvements and new modules for image annotation tool. The tool is used by company workers and it's result is a source for neural network education cycles in Mapbox. The toolk is simple from a first glance, but it supports range of use cases in UI, project metrics tracking and a lot of integrations with other backends.
+
+**Stack**: JS / TS, React, Redux, Go, NestJS, everything happens in AWS infrustructure including S3 file storage.
+
+----
+
 Akveo - **Nebular and Ngx-Admin Training** - Summer 2019, Minsk. 
 
 I did several training sessions about our company open source products (Nebular and NGX-Admin) and Angular in general.
@@ -108,7 +117,7 @@ I did several training sessions about our company open source products (Nebular 
 ----
 
 Akveo - **Backend Bundles** - 
-November 2018 - current time, Minsk. 
+November 2018 - October 2019, Minsk. 
 
 I've created architecture approach and implemented a significant part of a code for this project. The idea is to create development template for both frontend and backend, integrated together via REST services. Angular frontend and bunch of different backends - .NET, .NET Core, Java, Node.JS, Nest.JS and some others. Product is commercial and selled by our company.
 I am also involved into clients interaction, planning and continuous integration using SH scripts to prepare, build and test code before putting to the store.
