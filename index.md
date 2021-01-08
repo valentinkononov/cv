@@ -3,9 +3,11 @@
 # Valentin Kononov
 ### Full-Stack Developer, Speaker, Trainer
 
+[Link to this CV online](https://valentinkononov.github.io/cv/)
+
 ## Summary
 
-Full-Stack software developer, interested in web development using TypeScript, Backend development with NodeJS, NestJS, .NET Core. But not limited to it, open for the new skills. I enjoy attending conferences as a Speaker with technology talsk. Flexible and self motivated, I'm interested in being part of some framework development or product for developers. I love comprehensive tasks, learning new technologies and solving tech problems. 
+Full-Stack software developer, TypeScript Enthusiast, interested in web development using TypeScript, Backend development with NodeJS, NestJS, .NET Core, C++. But not limited to it. Open for the new skills and opportunities. I enjoy attending conferences as a Speaker with technology talks. Flexible and self motivated, I'm interested in being part of some framework development or product for developers. I love comprehensive tasks, learning new technologies and solving tech problems, making peoples life better with technology solutions. 
 
 <!-- ![Photo Valentin Kononov 2019](Valentin_2019.png) -->
 
@@ -64,22 +66,24 @@ Full-Stack software developer, interested in web development using TypeScript, B
 
 ## Story
 
-I've been working in software development since university for more than 11 years. Initially from .NET backgroung, I grew into management of projects inside EPAM, was involved into company processes at some level. Then I changed my primary direction back into code writing, architecture and technical leadership.
+I've been working in software development since university for more than 12 years. Initially from C++ and .NET backgroung, I grew into management of projects inside EPAM, was involved into company processes at some level. Then I changed my primary direction back into code writing, architecture and technical leadership.
 
-Now I dedicate more time to coding and reseraching new technologies, I've experienced in web development with Angular, backend development with .NET, .NET Core, NodeJS, NestJS,  mobile cross platform development with React Native and other things which help to automate stuff and solve technical issues. 
+Now I dedicate more time to coding and reseraching new technologies, I'm experienced in web development with Angular and React, backend development with .NET, .NET Core, NodeJS, NestJS, mobile cross platform development with React Native and other things which help to automate stuff and solve technical issues. 
 
-Apart from the code writing, I lead a team of developers and handle customer communication for several projects, provide planning and staffing allocation.
+Apart from the code writing, I lead a team of developers and handle customer communication for projects, provide planning and staffing allocation, write articles and release notes, support technical backlog.
 
-Starting from 2017 I'm into conferences speaking in the .NET and Angular area. I had speaking and training experience before, but now I provide deeply prepared technical talks, submit and participate in several international conferences. 
+Starting from 2017 I'm into conferences speaking in TypeScript, JavaScript, .NET and Angular area. I had speaking and training experience before, but now I provide deeply prepared technical talks, submit and participate in international conferences. From beginning of 2020 part of Minsk GDG community, participate in Meetup organizations, conference program committee member and writer and periodical community blog posts.
 
 Another intersting but rather small activity for myself is doing trainings and providing technical consultancy to the clients and company team members.
 
+Published NPM Typescript library for Runtime Types Verification [ts-stronger-types](https://www.npmjs.com/package/ts-stronger-types)
+
 ### Facts
 
- - Skilled in Angular development, prepared several technical talks on this matters, completed range of Angular projects and Frontend or Full-Stack developer. I have 2+ years of such experience.
+ - Skilled in Angular and React, development, prepared several technical talks on this matters, completed range of Angular projects and Frontend or Full-Stack developer. I have 3+ years of such experience.
+ - TypeScript Expert and Enthusiast, skilled in UI and Backend development using TypeScript with TypeOrm, NestJS and other modern techniques including design of non-relational data models 3+ years.
  - Skilled in .NET / .NET Core development, experienced with EntityFramework, WEB API, Authentication, Parallel Programming in .NET area. More than 10 years.
  - Created Architecture for small and mid size web applications and platforms, including Relational Data Base design
- - Experience with Node.JS and Nest.JS including design of non-relational data models. About 2 years.
  - Experience and desire to do conference talks and articles on technical aspects of software development
  - Russian and English languages, spoken and written
  - Can effectively work remotely
@@ -88,13 +92,13 @@ Another intersting but rather small activity for myself is doing trainings and p
 
 #### Completed
 
- - [GDG Dev Fest Gorky 2019](https://devfest.gdgnn.ru), GDG Conference in Nizhniy Novgorod. I did a talk, [video recording](https://www.youtube.com/watch?v=YqVu3SvPvQU) is avaiable, and workshop about NestJS
- - [AngularBelarus](https://www.meetup.com/ru-RU/angularbelarus) meetup #1, talk about NestJS, [video recording](https://www.youtube.com/watch?v=DNSwqq3jitc)
+Full List of conferences I attended as speaker is in my [blog](http://www.kononov.space/conferences-and-meetups/), but some of the most exiciting are here:
+
+- [jsPoland 2020](https://js-poland.pl/speaker/valentin-kononov/) Runtime Type Safety in Typescript for jsPoland online conference.
+- [Dev Party Russia](https://gdg-devparty.ru/) NestJS - Backend out of the box - Dev Russia online conference (27-06-2020) - [video recording](https://www.youtube.com/watch?v=4stUnXZDknI)
+- Angular Bad Practices for ngHeidelberg - online meetup (29-07-2020) - [video recording](https://www.youtube.com/watch?v=9LPxrfssbiE)
+- [GDG Dev Fest Gorky 2019](https://devfest.gdgnn.ru), GDG Conference in Nizhniy Novgorod. I did a talk, [video recording](https://www.youtube.com/watch?v=YqVu3SvPvQU) is avaiable, and workshop about NestJS
  - [ngVikings](https://ngvikings.org) conference, talk about Angular Bad Practices, [video recording](https://www.youtube.com/watch?v=QU739zZvkhE)
- - [GDG Dev Fest Belarus 2018](https://2018.devfest.by/) conference, talk about Application State Management, [video recording](https://www.youtube.com/watch?v=AQi7tzqMmM8)
- - [SarDotNet meetup 2018](https://vk.com/sardotnet), CQRS and Event Sourcing [video recording](https://www.youtube.com/watch?v=grtNzcLzwtM)
- - Several other local meetups with the simalar topics
- - Several trainings and tech talks as part of educational activities in my companies (Agile training, Code Quality Training, Scrum Training, 'Features of a national programming' - training about cultural differences in IT industry and some others)
 
 ### Magazine Articles about me
  - [Interview with me by ngVikings member - Marta Wisniewska](https://www.flipsnack.com/MartaWPL/behind-the-code-ngvikings.html)
@@ -104,7 +108,9 @@ Another intersting but rather small activity for myself is doing trainings and p
 Mapbox - **Annotation Tool** - 
 November 2019 - current time, Minsk
 
-I'm working improvements and new modules for image annotation tool. The tool is used by company workers and it's result is a source for neural network education cycles in Mapbox. The toolk is simple from a first glance, but it supports range of use cases in UI, project metrics tracking and a lot of integrations with other backends.
+I'm working on improvements and new modules for image annotation tool. The tool is used by company workers and it's result is a source for neural network education cycles in Mapbox. The tool has simple from a first glance, but it supports range of use cases in UI, project metrics tracking and a lot of integrations with other backends. 
+
+The project started as support of existing code in JS and GO, but later we come up with new better architecture approach and implemented brand new application based on React (with underreact) frontend and NestJS backend. Solution has big test coverage (85%), relational data model based on Postgresql database, 100% request validation on the backend side (with custom decorators and class-validator decorators) in NestJS backend. Deployment happens to AWS infrustructure. 
 
 **Stack**: JS / TS, React, Redux, Go, NestJS, everything happens in AWS infrustructure including S3 file storage.
 
@@ -248,4 +254,4 @@ In 2016 I have relocated to [Minsk](https://www.google.com/maps/place/%D0%9C%D0%
 
 I have lovely family - wife, two daughters, dog and cat. My wife is psychologist (therapist) and HR. We try to do joint projects together when it's possible. 
 
-I love travelling with my family, especially when it's possible to stay in some place for month or more. It gives me the opportunity to know the country and people better, understand culture and manners. That's why It's very cool for me when I can travel for work and stay with particular business in some place for quite a long time.
+I love travelling with my family, especially when it's possible to stay in some place for month or more. It gives me the opportunity to know the country and people better, understand culture and manners. That's why it's very cool for me when I can travel for work and stay with particular business in some place for quite a long time.
