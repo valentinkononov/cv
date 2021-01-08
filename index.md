@@ -110,7 +110,7 @@ November 2019 - current time, Minsk
 
 I'm working on improvements and new modules for image annotation tool. The tool is used by company workers and it's result is a source for neural network education cycles in Mapbox. The tool has simple from a first glance, but it supports range of use cases in UI, project metrics tracking and a lot of integrations with other backends. 
 
-The project started as support of existing code in JS and GO, but later we come up with new better architecture approach and implemented brand new application based on React (with underreact) frontend and NestJS backend. Solution has big test coverage (85%), relational data model based on Postgresql database, 100% request validation on the backend side (with custom decorators and class-validator decorators) in NestJS backend. Deployment happens to AWS infrustructure. 
+The project started as support of existing code in JS and GO, but later we come up with new better architecture approach and implemented brand new application based on React (with underreact) frontend and NestJS backend. Solution has big test coverage (85%), relational data model based on Postgresql database, 100% request validation on the backend side (with custom decorators and class-validator decorators) in NestJS backend. Deployment happens to AWS infrastructure. 
 
 **Stack**: JS / TS, React, Redux, Go, NestJS, everything happens in AWS infrustructure including S3 file storage.
 
@@ -230,18 +230,13 @@ Graduation Year: 2010
 
 ### Articles
 
-I have prepared and posted several articles on programming topics:
+My articles can be found in my [blog](http://www.kononov.space/tag/article/) and [habr](https://habr.com/ru/users/pinckrow/posts/), but some of them I'd like to mention here:
 
- - [Unobvious Features of Rotativa for PDF geenration](https://habr.com/ru/post/425511/)
- - [We have Agile or Agile has us?](https://habr.com/ru/post/443842/)
+ - Runtime Type Safety in Typescript [in English](http://www.kononov.space/runtime-type-safety-in-typescript/) and [in Russian](https://habr.com/ru/post/484030/)
+ - [We have Agile or Agile has us?](https://habr.com/ru/post/443842/) in Russian
  - [State Management — how we do it with MobX in Mobile App](https://medium.com/akveo-engineering/state-management-how-we-do-it-with-mobx-in-mobile-app-c381d5b3cca1)
  - [CQRS and Event Sourcing in backend systems](https://www.akveo.com/blog/cqrs-and-event-sourcing-in-backend-systems/)
  - [Application State Management with MobX in Angular](https://www.akveo.com/blog/application-state-management-with-mobx-in-angular/)
-
-Personal Writings:
-
-- [ngVikings 2019 Conference takeaways](https://medium.com/akveo-engineering/ngvikings-2019-takeaways-b3bd9ff7576d)
- - [Go Places in Copenhagen — northern wind, coffee, and atmosphere](https://medium.com/@valentinkononov/go-places-in-copenhagen-northern-wind-coffee-and-atmosphere-b0845eb72fef)
 
 
 ### Personal Facts
