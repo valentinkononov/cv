@@ -102,9 +102,13 @@ Unity - **Advertising Suggestions Project** -
 October 2021 - current time, Helsinki
 
 Full stack project to implement React components and pages with Javascript as part of the huge customer facing dashboard. Aim of the project is to help clients select better settings for the advertising campaigns and gain more installs or views.
+
 Backend part consists from several micro services written in GO, which can gather data and provide it to the dashboard or to the API clients.
+
 Data infrastructure is pretty diverse, consisted of GCP Big Query Tables, Kafka topics and other external sources as Druid.  
+
 All infrastructure is managed by terraform scripts so that it can be consistent and trackable. Team is responsible to manage own infrastructure.
+
 I have Special feelings to the Dataflow project, which was quite new to the company stack and I have implemented it using Pythin (usually GCP dataflows are written with java).
 
 My role on the project is to develop components, create TDD (technical documents with architecture planning), work with the team, mentor some team members, participate in planning sessions, testing sessions and wide communications with other teams.
