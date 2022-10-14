@@ -105,8 +105,23 @@ Full List of conferences I attended as speaker is in my [blog](http://www.konono
 
 ### Projects and Case Studies
 
+Unity - **Advertising Suggestions Project** - 
+October 2021 - current time, Helsinki
+
+Full stack project to implement React components and pages with Javascript as part of the huge customer facing dashboard. Aim of the project is to help clients select better settings for the advertising campaigns and gain more installs or views.
+Backend part consists from several micro services written in GO, which can gather data and provide it to the dashboard or to the API clients.
+Data infrastructure is pretty diverse, consisted of GCP Big Query Tables, Kafka topics and other external sources as Druid.  
+All infrastructure is managed by terraform scripts so that it can be consistent and trackable. Team is responsible to manage own infrastructure.
+I have Special feelings to the Dataflow project, which was quite new to the company stack and I have implemented it using Pythin (usually GCP dataflows are written with java).
+
+My role on the project is to develop components, create TDD (technical documents with architecture planning), work with the team, mentor some team members, participate in planning sessions, testing sessions and wide communications with other teams.
+
+----
+
+**Stack**: JS / TS, React, React Query Hooks, Go, GCP Infrastructure, GCP Data flow in Python, Terraform to manage GCP settings and number of other tools
+
 Mapbox - **Annotation Tool** - 
-November 2019 - current time, Minsk
+November 2019 - September 2021, Minsk
 
 I'm working on improvements and new modules for image annotation tool. The tool is used by company workers and it's result is a source for neural network education cycles in Mapbox. The tool has simple from a first glance, but it supports range of use cases in UI, project metrics tracking and a lot of integrations with other backends. 
 
