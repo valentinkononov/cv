@@ -31,15 +31,8 @@ Full-Stack software developer, TypeScript Enthusiast, interested in web developm
 </div>
 
 <div class="flex-row-container">
-    <img src="assets/phone-call-outline.png" width="25" height="25" alt="Cell / Telegram / WhatsUp" /> 
-    <div>/</div>
     <div><img src="assets/paper-plane-outline.png" width="25" height="25" alt="Telegram" /></div>
-    <div>+375 29 784 8999</div>
-</div>
-
-<div class="flex-row-container">
-    <img src="assets/skype.jpg" width="25" height="25" alt="Skype" /> 
-    <div>valentin_kononov</div>
+    <div>@ValentinKononov</div>
 </div>
  
 <div class="flex-row-container">
