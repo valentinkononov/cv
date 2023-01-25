@@ -53,7 +53,7 @@ Own site: https://kononov.space/
 
 ## Story
 
-I've been working in software development since 2008. Initially from C++ and .NET background, I grew into management of projects inside EPAM Systems company, was involved into company processes at some level.
+I've been working in software development since 2008. Initially from C++ and .NET background, I grew into management of projects inside EPAM Systems company, was involved into company processes at some level, working with people, building growth and career plans. 
 Later I pivoted into more technical roles, code writing, architecture and technical leadership. Gained experience with number of modern technologies and stacks.
 
 Now I dedicate more time to architecture design and coding, but keep also working on team leadership. I'm experienced in web development with Typescript and Javascript, Angular and React.
