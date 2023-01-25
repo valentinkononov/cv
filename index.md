@@ -7,89 +7,68 @@
 
 ## Summary
 
-Full-Stack Software Engineer and Architect, Team Lead, TypeScript Enthusiast, interested in web development using TypeScript, Backend development with NodeJS, NestJS, .NET, C++, GOlang and others. But not limited to it.
-Open for the new skills and opportunities. I enjoy attending conferences as a Speaker with technology talks.
-Flexible and self-motivated, I enjoy technical challenges and participation in valuable product creation. But also experienced in team setup, processes improvement, project breakdown and estimation.
-I love comprehensive tasks, learning new technologies and solving tech problems, making peoples life better with technology solutions.
+Senior Full-Stack Software Engineer and Architect, Team Lead, TypeScript / Strong Typed Languages Enthusiast.
+Experienced with Typescript/Javascript, NodeJS / NestJS, C# / Java, GOlang, Data Design with SQL and NonSQL, Cloud Infrastructure setup.
+But not limited to and open to new skills, languages, and opportunities! Enjoy attending conferences as a Speaker with technology talks.
+
+Flexible and self-motivated, I enjoy technical challenges, and architecture work.
+Experienced in team setup and management, process improvement, project breakdown, and estimation.
+
+I love comprehensive tasks, learning new technologies, and solving tech problems, making people's life better with technology solutions.
+
+### Facts
+
+- Architecture design of complex frontend and backend systems, architecture review, analysis, and improvement
+- Skilled in .NET / .NET Core development, experienced with EntityFramework, WEB API, Parallel Programming in .NET area
+- TypeScript Expert and Enthusiast, skilled in UI and Backend development using TypeScript with TypeOrm, NestJS, and other modern techniques including design of non-relational data models
+- Skilled in Angular and React, development, prepared several conference talks on these matters, completed a range of Angular and React projects
+- Database experience with SQL and noSQL databases. Have special love to Postgresql
+- Hands-on experience building data storages with BiqQuery, data pipelines in GCP stack
+- Experience with Kafka and PubSub topics, Cloud Functions, microservices
+- Java / Scala / Kotlin experience
+- Worked with different cloud infrastructures such as AWS (with cloudformation), GCP (with Terraform) and Azure
+- Experience and desire to do conference talks and articles on technical aspects of software development
+- English language as a primary working language
+- Can effectively work remotely (actually doing that since 2020)
 
 <!-- ![Photo Valentin Kononov 2019](Valentin_2019.png) -->
 
 ## Contacts
 
-<div class="container">
+Email: valentin.kononov@gmail.com
 
-<div class="flex-row-container">
-    <img src="assets/email-outline.png" width="25" height="25" alt="Email" /> 
-    <div>valentin.kononov@gmail.com</div>
-</div>
+Twitter / Telegram: @ValentinKononov
 
-<div class="flex-row-container">
-    <img src="assets/github-outline.png" width="25" height="25" alt="GitHub" /> 
-    <div><a href="https://github.com/valentinkononov">https://github.com/valentinkononov</a></div>
-</div>
+LinkendIn: https://www.linkedin.com/in/valentin-kononov
 
-<div class="flex-row-container">
-    <img src="assets/linkedin-outline.png" width="25" height="25" alt="LinkedIn" />
-    <div><a href="https://www.linkedin.com/in/valentin-kononov/">https://www.linkedin.com/in/valentin-kononov/</a></div>
-</div>
+Github: https://github.com/valentinkononov
 
-<div class="flex-row-container">
-    <div><img src="assets/paper-plane-outline.png" width="25" height="25" alt="Telegram" /></div>
-    <div>@ValentinKononov</div>
-</div>
- 
-<div class="flex-row-container">
-    <img src="assets/twitter-outline.png" width="25" height="25" alt="Twitter" /> 
-    <div>@ValentinKononov</div>
-</div>
+Facebook: https://www.facebook.com/pinckrow
 
-<div class="flex-row-container">
-    <img src="assets/facebook-outline.png" width="25" height="25" alt="Facebook" /> 
-    <div><a href="https://www.facebook.com/pinckrow">https://www.facebook.com/pinckrow</a></div>
-</div>
+Medium: https://medium.com/@valentinkononov
 
-<div class="flex-row-container">
-    <img src="assets/file-text-outline.png" width="25" height="25" alt="Medium" /> 
-    <div><a href="https://medium.com/@valentinkononov">https://medium.com/@valentinkononov</a></div>
-</div>
+Habr: https://habr.com/ru/users/pinckrow/posts
 
-<div class="flex-row-container">
-    <img src="assets/file-text-outline.png" width="25" height="25" alt="Habrahabr" /> 
-    <div><a href="https://habr.com/ru/users/pinckrow/posts/">https://habr.com/ru/users/pinckrow/posts/</a></div>
-</div>
-
-</div>
+Own site: https://kononov.space/
 
 ## Story
 
-I've been working in software development since 2008. Initially from C++ and .NET background, I grew into management of projects inside EPAM Systems, was involved into company processes at some level.
-At some point I pivoted into more technical roles, code writing, architecture and technical leadership. Gained experience with number of modern technologies and stacks.
+I've been working in software development since 2008. Initially from C++ and .NET background, I grew into management of projects inside EPAM Systems company, was involved into company processes at some level.
+Later I pivoted into more technical roles, code writing, architecture and technical leadership. Gained experience with number of modern technologies and stacks.
 
-Now I dedicate more time to coding and technologies, I'm experienced in web development with Typescript and Javascript, Angular and React.
-Backend development with .NET, .NET Core, NodeJS, NestJS, GOlang and Python, with different infrastructure providers (AWS, GCP, Azure).
+Now I dedicate more time to architecture design and coding, but keep also working on team leadership. I'm experienced in web development with Typescript and Javascript, Angular and React.
+Backend development with .NET, .NET Core, NodeJS, NestJS, GOlang and Python, Java with different infrastructure providers (AWS, GCP, Azure). Several projects were built based on microservices architecture, with data consuming from stores like Kafka or BigQuery.
 Have experience in mobile cross-platform development with React Native.
 Special place in my dev heart is dedicated to C# and Typescript, as strong typed languages.
 
-Lately I started to dedicate more attention to technical proposals description, systems analysis and architecture review.
+Lately I started to dedicate more attention to technical proposals, systems analysis and architecture review.
 
 Apart from the code writing, I usually lead a team of developers and handle customer communication for projects, provide planning and staffing allocation, project review and estimation.
 Write articles and release notes, support technical backlog.
 
-Starting from 2017 I'm into conferences speaking about TypeScript, JavaScript, .NET and Angular area. I had speaking and training experience before, but now I provide deeply prepared technical talks, submit and participate in international conferences. Was part of Minsk GDG Org community in 2020-2021, participate in Meetup organizations, conference program committee member and writer and periodical community blog posts.
+Starting from 2017 I'm into conferences speaking about TypeScript, JavaScript, NestJS, .NET and Angular area. I had speaking and training experience before, but now I provide deeply prepared technical talks, submit and participate in international conferences. Was part of Minsk GDG Org community in 2020-2021, participate in Meetup organizations, conference program committee member and writer and periodical community blog posts.
 
 Published NPM Typescript library for Runtime Types Verification [ts-stronger-types](https://www.npmjs.com/package/ts-stronger-types) - this is a thing for myself, as strong types enthusiast.
-
-### Facts
-
-- Skilled in .NET / .NET Core development, experienced with EntityFramework, WEB API, WCF services, Parallel Programming in .NET area
-- TypeScript Expert and Enthusiast, skilled in UI and Backend development using TypeScript with TypeOrm, NestJS and other modern techniques including design of non-relational data models
-- Skilled in Angular and React, development, prepared several technical talks on this matters, completed range of Angular and React projects
-- Database experience with SQL and noSQL databases. Have special love to Postgresql
-- Created Architecture for small and mid-size web applications and platforms, including Relational Data Base design
-- Worked with different cloud infrastructures such as AWS (with cloudformation), GCP (with Terraform) and Azure
-- Experience and desire to do conference talks and articles on technical aspects of software development
-- English language as primary working language
-- Can effectively work remotely (actually doing that since 2020)
 
 ## Conferences and MeetUps
 
@@ -126,7 +105,7 @@ My role on the project is to develop components, create TDD (technical documents
 
 ----
 
-**Stack**: JS / TS, React, React Query Hooks, GO, GCP Infrastructure, GCP Data flow in Python, Terraform to manage GCP settings and number of other tools
+**Stack**: JS / TS, React, React Query Hooks, GO, GCP Infrastructure, GCP Data flow in Python, Terraform to manage GCP settings and number of other tools, BiqQuery, Kafka, CloudFunctions
 
 Mapbox - **Annotation Tool** -
 November 2019 - September 2021, Minsk
@@ -139,7 +118,9 @@ The project started as support of existing code in JS and GO, but later we come 
 Solution has big test coverage (85%), relational data model based on Postgresql database, 100% request validation on the backend side (with custom decorators and class-validator decorators) in NestJS backend.
 Deployment happens to AWS infrastructure using cloudformation configuration.
 
-**Stack**: JS / TS, React, Redux, Go, NestJS, everything happens in AWS infrastructure including S3 file storage.
+Additionally, I've implemented special java plugin for JOSM to support custom type of map annotation with splines
+
+**Stack**: JS / TS, React, Redux, Go, NestJS, everything happens in AWS infrastructure including S3 file storage, Java
 
 ----
 
@@ -158,7 +139,7 @@ I was also involved into clients interaction, planning and continuous integratio
 
 The main project challenge is to make sure the single UI with several variants works with the range of backends, the second biggest challenge is to make sure each variant of Angular UI is built without errors automatically.
 
-**Stack**: Angular, Nebular, Ngx-Admin, .NET Web API, .NET Core Web API, Entity Framework, Node.JS, Nest.JS, Mongoose, MongoDB, SQl Server, SH Scripts, Git
+**Stack**: Angular, Nebular, Ngx-Admin, .NET Web API, .NET Core Web API, Entity Framework, Node.JS, Nest.JS, Mongoose, MongoDB, SQl Server, SH Scripts, Git, Java
 
 ---
 
