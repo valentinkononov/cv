@@ -7,31 +7,34 @@
 
 ## Summary
 
-Senior Full-Stack Software Engineer and Architect, Team Lead, TypeScript / Strong Typed Languages Enthusiast.
-Experienced with Typescript/Javascript, NodeJS / NestJS, C# / Java, GOlang, Data Design with SQL and NonSQL, Cloud Infrastructure setup.
-But not limited to and open to new skills, languages, and opportunities! Enjoy attending conferences as a Speaker with technology talks.
+Senior Backend Software Engineer and Architect with 17 years of experience. 
+Enthusiast of Strong Typed Languages like GOlang, Typescript, and C#.
+In every project, I design data schema and infrastructure as a code, set up CI and CD to streamline processes, and focus on actual business goals.
+I'm using the validated output of AI assistants like Claude as tooling daily.
+Open for new knowledge, skills, and opportunities! I enjoy attending conferences as a speaker and giving technology talks.
+Flexible and self-motivated, I enjoy technical challenges and engineering problems, architecture, and infrastructure work. 
+Prefer to move fast and take pragmatic weighted decisions, based on real necessity. 
+Proud husband and father of two daughters! Junior yacht skipper!
+Live in Portugal and benefit from working in the UTC timezone.
 
-Flexible and self-motivated, I enjoy technical challenges, and architecture work.
-Experienced in team setup and management, process improvement, project breakdown, and estimation.
-
-I love comprehensive tasks, learning new technologies, and solving tech problems, making people's life better with technology solutions.
 
 ### Facts
 
-- Architecture design of complex frontend and backend systems, architecture review, analysis, and improvement
-- Skilled in .NET / .NET Core development, experienced with EntityFramework, WEB API, Parallel Programming in .NET area
-- TypeScript Expert and Enthusiast, skilled in UI and Backend development using TypeScript with TypeOrm, NestJS, and other modern techniques including design of non-relational data models
-- Skilled in Angular and React, development, prepared several conference talks on these matters, completed a range of Angular and React projects
-- Database experience with SQL and noSQL databases. Have special love to Postgresql
-- Hands-on experience building data storages with BiqQuery, data pipelines in GCP stack
+- Architecture design of complex backend systems, architecture review, analysis, and improvement
+- Skilled in GOlang backends, web APIs, and parallel computation
+- TypeScript Expert and Enthusiast, skilled in UI and Backend development using TypeScript with TypeOrm, NestJS, and other modern techniques including the design of relational data models
+- ReactJS as a full stack, prepared several conference talks on state management matters, completed a range of Angular and React projects
+- Database experience with SQL and NoSQL databases. Have special love to Postgresql
+- Practical experience with testing (and little stress testing) of APIs. Attended https://testjssummit.com/ once as a speaker about API testing with NestJS
+- Hands-on experience building data storages with BiqQuery, data pipelines in GCP stack / AWS stack
 - Experience with Kafka and PubSub topics, Cloud Functions, microservices
-- Java / Scala / Kotlin experience
-- Worked with different cloud infrastructures such as AWS (with cloudformation), GCP (with Terraform) and Azure
+- Worked with different cloud infrastructures such as AWS (with CloudFormation), GCP (with Terraform), and Azure
+- Designed and implemented AWS infrastructure from scratch for a mid-size project with audio data processing
 - Experience and desire to do conference talks and articles on technical aspects of software development
-- English language as a primary working language
-- Can effectively work remotely (actually doing that since 2020)
+- English as a primary working language
+- Effectively work remotely (since 2020)
 
-<!-- ![Photo Valentin Kononov 2019](Valentin_2019.png) -->
+<!-- ![Photo Valentin Kononov 2024](Valentin_2024.png) -->
 
 ## Contacts
 
@@ -45,36 +48,31 @@ Github: https://github.com/valentinkononov
 
 Facebook: https://www.facebook.com/pinckrow
 
-Medium: https://medium.com/@valentinkononov
-
-Habr: https://habr.com/ru/users/pinckrow/posts
-
-Own site: https://kononov.space/
+Musical Stories Blog: https://asynctunes.substack.com/
 
 ## Story
 
-I've been working in software development since 2008. Initially from C++ and .NET background, I grew into management of projects inside EPAM Systems company, was involved into company processes at some level, working with people, building growth and career plans. 
-Later I pivoted into more technical roles, code writing, architecture and technical leadership. Gained experience with number of modern technologies and stacks.
+I've been working in software development since 2008. Initially from a C++ and .NET background, I grew into management of projects inside EPAM Systems company, was involved in company processes at some level, working with people, building growth and career plans. 
+Later I pivoted back into a technical role and architecture. Gained experience with several modern technologies and stacks. After working in a big corporation, I switched several places working in startups (Akveo, Mapbox), bigger companies (Unity), and startup again (Stems for http://lowkeyremix.com/). I use the benefits of both worlds - solid processes of enterprise businesses with a will for change and the fast pace of startups. 
 
-Now I dedicate more time to architecture design and coding, but keep also working on team leadership. I'm experienced in web development with Typescript and Javascript, Angular and React.
-Backend development with .NET, .NET Core, NodeJS, NestJS, GOlang and Python, Java with different infrastructure providers (AWS, GCP, Azure). Several projects were built based on microservices architecture, with data consuming from stores like Kafka or BigQuery.
-Have experience in mobile cross-platform development with React Native.
-Special place in my dev heart is dedicated to C# and Typescript, as strong typed languages.
+I work with backend code, architecture, and infrastructure, but keep an eye on team leadership. I'm experienced in web development with Typescript and Javascript, Angular, and React. Backend development with GOlang, Typescript, NodeJS, NestJS, .NET, .NET Core, and Python with different infrastructure providers (AWS, GCP, Azure). Several projects were built based on microservices architecture, with data consumption from stores like Kafka or BigQuery. Have experience in mobile cross-platform development with React Native.
 
-Lately I started to dedicate more attention to technical proposals, systems analysis and architecture review.
+My daily work is mostly related to GOlang, PostgreSQL, AWS infrastructure, and Python scripts. 
 
-Apart from the code writing, I usually lead a team of developers and handle customer communication for projects, provide planning and staffing allocation, project review and estimation.
-Write articles and release notes, support technical backlog.
+When it comes to the selection of technology or solutions to engineering problems, I am using a pragmatic approach - trying to find a minimal change that leads to maximum benefit in the long term. I'm not chasing technology and tools just because it's new, but only when it serves a purpose.
 
-Starting from 2017 I'm into conferences speaking about TypeScript, JavaScript, NestJS, .NET and Angular area. I had speaking and training experience before, but now I provide deeply prepared technical talks, submit and participate in international conferences. Was part of Minsk GDG Org community in 2020-2021, participate in Meetup organizations, conference program committee member and writer and periodical community blog posts.
+Apart from code writing, I lead a team of developers and handle customer communication for projects, provide planning and staffing allocation, project review, and estimation. Write articles and release notes, support technical backlog.
+
+Starting from 2017 I'm into conferences speaking about TypeScript, JavaScript, NestJS, .NET, and Angular area. I provided deeply prepared technical talks at international conferences from 2017 to 2022. 
 
 Published NPM Typescript library for Runtime Types Verification [ts-stronger-types](https://www.npmjs.com/package/ts-stronger-types) - this is a thing for myself, as strong types enthusiast.
+
 
 ## Conferences and MeetUps
 
 #### Completed
 
-Full List of conferences I attended as speaker is in my [blog](https://www.kononov.space/conferences-and-meetups/), but some of the most exciting are here:
+Some of the most exciting are here:
 
 - [jsPoland 2020](https://js-poland.pl/speaker/valentin-kononov/) Runtime Type Safety in Typescript for jsPoland online conference.
 - [xTechnology meetup](https://xtechnology.dev/), talk about React Query Hooks (24-12-2022) [video](https://www.youtube.com/watch?v=rLasA328dEM)
@@ -86,22 +84,40 @@ Full List of conferences I attended as speaker is in my [blog](https://www.konon
 
 ### Projects and Case Studies
 
-Unity - **Advertising Suggestions Project** -
-October 2021 - current time, Helsinki
+Stems - **lowkey remixing app** -
+March 2023 - current time, Portugal
 
-Full stack project to implement data pipelines, api and React components and pages with Javascript as part of the huge customer facing dashboard.
+Started as part time consultant to support backend and improve infrastructure, I transformed this role into a full time job to build complex backend in GOlang, create and maintain audio data processing using AWS infrastructure and GCP Cuda environment. 
+My primary role is backend code implementation and technical management of the project. 
+
+The project goal is to create an app for making music remixes, even though if you don't have related musical experience. Apart from the normal data storage and CRUD operations with the database, Backend provides audio processing like split mix track from the uploaded video into 4 stems for separate handling, gathering audio analysis info like beats per minute etc, working with ffmpeg and other tooling to prepare video and audio and other related processing. The main challenge is to make most of the processing in near to real-time mode. 
+
+The infrastructure of the project is mostly implemented in AWS as ECS cluster with RDS cluster based on Postgresql Engine, used infrastructure as a code approach and full-scale CI/CD. Deployment happens using GitHub actions including database migration scripts. AWS contains most of the project including push notifications with delivery checks, file caching, background data processing, and so on.
+
+Google infrastructure is used to utilize Cuda environment and GPU computations for various analysis and AI tasks.
+
+Apart from the performance, the bigger challenge of this project is using of the new tools, testing and integrating various open-source tools and libraries. My personal goal here is to make the decision for the new tooling weighted and serving a purpose so that the team spends minimal time on tooling change and maximum time on business goals. 
+
+**Stack**: React Native with Typescript, GOlang, GQL, PostgreSQL, AWS and GCP, S3, SNS, Cloudformation for AWS infrastructure, Kubernetis cluster in GCP, ffmpeg, Python for running ffmpeg commands and background processing ...
+
+Unity - **Advertising Suggestions Project** -
+October 2021 - September 2024, Helsinki, Finland
+
+Full stack project to implement data pipelines, API and React components with Javascript as part of the huge customer facing dashboard.
 Aim of the project is to help clients select better settings for the advertising campaigns and gain more installs or views.
 
-Backend part consists from several micro-services written in GOlang, which queries data from BigQuery and provide it to the dashboard or to the API clients.
+Backend part consists from several micro-services written in GOlang, which fetchs data from BigQuery and provide it to the dashboard or to the API clients.
 Data pipelines are implemented using Cloud Functions and Scheduled Queries.
 
 Data infrastructure is pretty diverse, consisted of GCP Big Query Tables, Kafka topics and other external sources as Druid.
 
 All infrastructure is managed by terraform configuration, so that it can be consistent and trackable. Team is responsible to manage own infrastructure.
 
-I have Special feelings to the Dataflow project, which was quite new to the company stack. I have implemented it using Python (usually GCP dataflows are written in Java).
+My role on the project was to develop components, create TDD (technical documents with architecture planning), work with the team, mentor some team members, participate in planning sessions, testing sessions and wide communications with other teams.
 
-My role on the project is to develop components, create TDD (technical documents with architecture planning), work with the team, mentor some team members, participate in planning sessions, testing sessions and wide communications with other teams.
+Apart from that, I participated in Reporting project, which goal was to migrate reporting tool to the new design and implement gathering data from new APIs.
+
+The biggest achievement I gained through 3 years of working at Unity is promoting Typescript (instead of Javascript) as a primary language for the big react js repository, which was used by 400 developers on daily basis. I worked on this project alongside with my main work almost a year.
 
 ----
 
@@ -240,9 +256,9 @@ Graduation Year: 2010
 
 ### Articles
 
-My articles can be found in my [blog](https://www.kononov.space/tag/article/) and [habr](https://habr.com/ru/users/pinckrow/posts/), but some of them I'd like to mention here:
+My articles can be found in my [blog](https://kononov-space.fly.dev/tag/article/) and [habr](https://habr.com/ru/users/pinckrow/posts/), but some of them I'd like to mention here:
 
-- [Runtime Type Safety in Typescript](https://www.kononov.space/runtime-type-safety-in-typescript/)
+- [Runtime Type Safety in Typescript](https://kononov-space.fly.dev/runtime-type-safety-in-typescript/)
 - [Typescript Decorators](https://kononov-space.fly.dev/ts_decorators/)
 - [CQRS and Event Sourcing in backend systems](https://kononov-space.fly.dev/cqrs-and-event-sourcing-in-backend-systems/)
 - [Application State Management with MobX in Mobile](https://kononov-space.fly.dev/state-management-how-we-do-it-with-mobx-in-mobile-app/)
@@ -257,8 +273,11 @@ During several years in parallel with software development I was working in univ
 
 As part of my EPAM activities I was highly involved into people management, motivation, attrition management and other related activities.
 
-In 2016 I have relocated to [Minsk](https://www.google.com/maps/place/%D0%9C%D0%B8%D0%BD%D1%81%D0%BA/@53.8847604,27.4529416,11z/data=!3m1!4b1!4m5!3m4!1s0x46dbcfd35b1e6ad3:0xb61b853ddb570d9!8m2!3d53.9006011!4d27.558972) city,
-Belarus, with my wife and two daughters.
+In 2016 I have relocated to [Minsk, Belarus](https://www.google.com/maps/place/%D0%9C%D0%B8%D0%BD%D1%81%D0%BA/@53.8847604,27.4529416,11z/data=!3m1!4b1!4m5!3m4!1s0x46dbcfd35b1e6ad3:0xb61b853ddb570d9!8m2!3d53.9006011!4d27.558972), with my wife and two daughters.
+
+In 2021 I move to [Helsinki, Finland](https://www.google.com/maps/place/%D0%A5%D0%B5%D0%BB%D1%8C%D1%81%D0%B8%D0%BD%D0%BA%D0%B8,+%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F/@60.1100964,24.6890541,10z/data=!3m1!4b1!4m6!3m5!1s0x46920bc796210691:0xcd4ebd843be2f763!8m2!3d60.1698557!4d24.9383791!16zL20vMDNraG4?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D) with offer from Unity. 
+
+After 3 cold years in Finland, I changed job and moved to [Estoril, Portugal](https://www.google.com/maps/place/%D0%AD%D1%88%D1%82%D0%BE%D1%80%D0%B8%D0%BB/@38.7097483,-9.4103927,14z/data=!3m1!4b1!4m6!3m5!1s0xd1ec5c602d62353:0x82c0f730439d4cb1!8m2!3d38.7133152!4d-9.3936558!16zL20vMDE5ODZo?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D) where I plan to stay for a while living by the ocean side.
 
 I have lovely family - wife, two daughters, dog and cat. My wife is psychologist (therapist) and HR. We try to do joint projects together when it's possible.
 
