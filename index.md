@@ -34,7 +34,7 @@ Live in Portugal and benefit from working in the UTC timezone.
 - English as a primary working language
 - Effectively work remotely (since 2020)
 
-<!-- ![Photo Valentin Kononov 2024](Valentin_2024.png) -->
+<!-- ![Photo Valentin Kononov 2024](Valentin_2024.jpg) -->
 
 ## Contacts
 
